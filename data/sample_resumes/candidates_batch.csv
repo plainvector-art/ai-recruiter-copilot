@@ -1,0 +1,5 @@
+Name,Email,Phone,Resume_Text
+"Bob Smith","bob.smith@example.com","555-0101","Bob is a Backend developer with 4 years of experience. Skills: Python, FastAPI, Docker, SQL, PostgreSQL. Deployed microservices on AWS RDS and ECS. Built REST APIs. Highly collaborative team player."
+"Emily Davis","emily.d@example.com","555-0102","Emily is a Mid-Level Software Engineer. Skills: Java, Spring Boot, MySQL, AWS, Git. Experienced in building microservices and working with REST APIs. Strong ownership and active mentor."
+"Mark Wilson","mark.w@example.com","555-0103","Mark is a Senior Frontend Engineer. Skills: React, TypeScript, JavaScript, HTML, CSS, Figma. 6 years of experience. Limited backend experience. Good communication and lead developer on multiple UIs."
+"James Green","james.g@example.com","555-0104","James is an Entry Level Developer. Skills: Python, Flask, Git, SQLite. Completed a coding bootcamp. Passionate about learning new things and volunteer coach."

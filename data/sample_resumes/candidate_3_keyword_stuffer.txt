@@ -1,0 +1,28 @@
+JOHN DOE
+Email: john.doe.fraud@example.com | Phone: +1-555-0100
+Location: New York, NY
+
+OBJECTIVE
+Looking for a Senior Backend Engineer role. I am seeking a Senior Backend Engineer to join our growing product team. You will lead the development of our core microservices architecture, design scalable REST and GraphQL APIs, and optimize database queries. You will work closely with frontend engineers and product managers to deliver high-quality, performant software.
+
+SKILLS
+Python, FastAPI, SQL, PostgreSQL, MySQL, AWS, Docker, Kubernetes, ECS, RDS, S3, Microservices, Communication, Collaboration, Leadership, Ownership
+
+EXPERIENCE
+Developer | General Solutions
+2020 - Present
+- Worked as a software developer doing various tasks.
+- Used Python and SQL.
+- Assisted with deployments.
+- Had excellent communication and collaboration skills.
+- Did some containerization using Docker.
+- High ownership: You take responsibility for code quality, deployment, and monitoring.
+- Strong collaboration: You work effectively with cross-functional teams and actively participate in code reviews.
+
+Developer Intern | Small Shop
+2019 - 2020
+- Helped code simple websites.
+- Wrote basic Python scripts.
+
+EDUCATION
+BS in Computer Science, 2020

@@ -1,0 +1,48 @@
+ALEX CHEN
+Email: alex.chen@example.com | Phone: +1-555-0199
+GitHub: github.com/alexchen-dev | LinkedIn: linkedin.com/in/alex-chen-dev
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+Highly accomplished Senior Backend Engineer with 6+ years of experience designing, building, and scaling web APIs and microservices. Expert in Python, FastAPI, PostgreSQL, and cloud deployments. Passionate about mentoring team members, contributing to open source, and writing clean, maintainable code.
+
+CORE SKILLS
+- Languages: Python, JavaScript, TypeScript, SQL
+- Frameworks: FastAPI, Django, Flask, Express
+- DevOps & Cloud: AWS (ECS, RDS, S3), Docker, Kubernetes, GitHub Actions
+- Databases: PostgreSQL, Redis, MongoDB
+- Tools & Methodologies: Git, Agile/Scrum, CI/CD, REST APIs
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | TechCorp Solutions
+Jan 2022 - Present (2.5 years)
+- Led a team of 4 engineers to migrate a legacy monolithic application into a FastAPI microservices architecture, improving system response times by 35%.
+- Architected database schemas in PostgreSQL, utilizing indexing and query optimization to handle 10M+ daily API requests.
+- Integrated automated Docker builds and GitHub Actions pipelines for seamless AWS deployments.
+- Mentored 3 junior developers and established code quality standards across the backend engineering group.
+
+Software Engineer | DevStream LLC
+Sep 2019 - Dec 2021 (2.2 years)
+- Developed and maintained core API endpoints using Python Django and Flask.
+- Implemented user authentication, third-party payment gateways (Stripe), and email notifications.
+- Managed AWS RDS instances and deployed services on AWS ECS.
+- Collaborated in a cross-functional Scrum team to ship features on bi-weekly sprints.
+
+PROJECTS
+E-Commerce Checkout Pipeline (Python, FastAPI, Redis, Postgres)
+- Designed and built a high-throughput shopping cart and checkout API handling 500 concurrent checkouts per second.
+- Utilized Redis for caching sessions and Postgres for transaction records.
+- Deployed on AWS ECS with auto-scaling rules.
+
+Dockerized Developer Environment Toolkit
+- Created a custom open-source local developer environment generator utilizing Docker Compose.
+- Gained 300+ stars on GitHub and collaborated with 15 community contributors.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2019
+
+CERTIFICATIONS & VOLUNTEERING
+- AWS Certified Solutions Architect (Associate)
+- Volunteer Mentor at local youth coding bootcamp (2022-present)
+- Organized annual regional TechCorp Hackathon (2023)

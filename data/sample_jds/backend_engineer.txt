@@ -1,0 +1,24 @@
+Position: Senior Backend Engineer
+Seniority: Senior
+Location: Remote (US/Canada)
+
+About the Role:
+We are seeking a Senior Backend Engineer to join our growing product team. You will lead the development of our core microservices architecture, design scalable REST and GraphQL APIs, and optimize database queries. You will work closely with frontend engineers and product managers to deliver high-quality, performant software.
+
+Required Skills & Experience:
+- 5+ years of software development experience, specializing in backend systems.
+- Strong proficiency in Python, FastAPI, and SQL databases (PostgreSQL/MySQL).
+- Hands-on experience with containerization using Docker.
+- Experience deploying and managing services in AWS (ECS, RDS, S3).
+- Proven experience building and scaling microservices.
+- Excellent communication and collaboration skills.
+
+Preferred Qualifications:
+- Experience with Kubernetes.
+- Active contributor to open-source projects or active GitHub profile.
+- Experience mentoring junior developers or leading small technical teams.
+
+Behavioral Expectations:
+- High ownership: You take responsibility for code quality, deployment, and monitoring.
+- Strong collaboration: You work effectively with cross-functional teams and actively participate in code reviews.
+- Continuous learning: You stay up-to-date with industry trends and adopt new tools.

@@ -1,0 +1,371 @@
+[
+  {
+    "name": "ALEX CHEN",
+    "email": "alex.chen@example.com",
+    "phone": "",
+    "links": {
+      "github": "https://github.com/alexchen-dev",
+      "linkedin": "https://linkedin.com/in/alex-chen-dev",
+      "portfolio": ""
+    },
+    "skills": [
+      "Flask",
+      "Docker",
+      "Ci/Cd",
+      "Scrum",
+      "Django",
+      "Redis",
+      "Fastapi",
+      "Mongodb",
+      "Python",
+      "Sql",
+      "Postgresql",
+      "Typescript",
+      "Git",
+      "Microservices",
+      "Agile",
+      "Aws",
+      "Javascript",
+      "Kubernetes"
+    ],
+    "tools": [
+      "Github Actions",
+      "Docker",
+      "Git",
+      "Aws",
+      "Kubernetes"
+    ],
+    "experience": [
+      {
+        "title": "Architect",
+        "company": "Tech Company 1",
+        "dates": "2021 - Present",
+        "description": "Led backend integrations, designed microservices, improved API performance.",
+        "years": 4
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Tech Company 2",
+        "dates": "2019 - 2021",
+        "description": "Led backend integrations, designed microservices, improved API performance.",
+        "years": 2
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Microservice API",
+        "description": "Built scalable checkout APIs utilizing Python FastAPI and Postgres.",
+        "technologies": [
+          "Python",
+          "FastAPI",
+          "Postgres",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "school": "State University",
+        "grad_date": "2022"
+      }
+    ],
+    "certifications": [
+      "Professional Developer Certificate"
+    ],
+    "internships": [],
+    "soft_signals": {
+      "leadership": true,
+      "volunteering": true,
+      "initiative": true,
+      "hackathons": true,
+      "communication_rating": 5
+    },
+    "behavioral_signals": {
+      "github_activity": true,
+      "project_count": 5,
+      "open_source": true,
+      "learning_consistency": true
+    },
+    "scores": {
+      "semantic": 55.0,
+      "skills": 59.4,
+      "experience": 85.0,
+      "projects": 52.5,
+      "behavioral": 100.0,
+      "growth": 100.0
+    },
+    "final_score": 69.1,
+    "reasoning": {
+      "strengths": [
+        "Strong match for core required technologies, including: Python, Sql, Aws.",
+        "Past job titles and years of experience demonstrate strong seniority alignment.",
+        "Active hackathon participant, demonstrating rapid prototyping capabilities and initiative."
+      ],
+      "weaknesses": [
+        "Gaps in core job requirements: missing Mysql, Graphql."
+      ],
+      "fit_summary": "ALEX CHEN is a strong, competent fit for Position: Senior Backend Engineer. They show solid foundations and matching skills, though there are minor gaps in seniority or specific technologies. Worth interviewing.",
+      "confidence_score": 75,
+      "interview_questions": [
+        "Can you explain how you would handle building a system with Mysql, despite not having it explicitly on your resume?",
+        "In your project 'E-Commerce Microservice API', how did you make architectural choices regarding performance and database structure?"
+      ]
+    },
+    "fraud_report": {
+      "is_suspicious": true,
+      "fraud_penalty": 25.0,
+      "reason": " Possible Skill Stuffing: Skills ['Flask', 'Docker', 'Ci/Cd', 'Scrum'] listed but not supported by experience/project descriptions.",
+      "copied_phrases": []
+    },
+    "rank": 1
+  },
+  {
+    "name": "SARAH JENKINS",
+    "email": "sarah.j@example.com",
+    "phone": "",
+    "links": {
+      "github": "",
+      "linkedin": "https://linkedin.com/in/sarah-jenkins-front",
+      "portfolio": ""
+    },
+    "skills": [
+      "Css",
+      "React",
+      "Html",
+      "Typescript",
+      "Git",
+      "Vue",
+      "Javascript"
+    ],
+    "tools": [
+      "Git",
+      "Jenkins",
+      "Vs Code",
+      "Figma",
+      "Npm"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 1",
+        "dates": "2021 - Present",
+        "description": "Led backend integrations, designed microservices, improved API performance.",
+        "years": 1
+      },
+      {
+        "title": "Developer",
+        "company": "Tech Company 2",
+        "dates": "2019 - 2021",
+        "description": "Led backend integrations, designed microservices, improved API performance.",
+        "years": 1
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Microservice API",
+        "description": "Built scalable checkout APIs utilizing Python FastAPI and Postgres.",
+        "technologies": [
+          "Python",
+          "FastAPI",
+          "Postgres",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "school": "State University",
+        "grad_date": "2022"
+      }
+    ],
+    "certifications": [
+      "Professional Developer Certificate"
+    ],
+    "internships": [
+      {
+        "role": "Software Engineering Intern",
+        "company": "Company",
+        "details": "Developed features, optimized processes."
+      }
+    ],
+    "soft_signals": {
+      "leadership": true,
+      "volunteering": false,
+      "initiative": true,
+      "hackathons": false,
+      "communication_rating": 4
+    },
+    "behavioral_signals": {
+      "github_activity": false,
+      "project_count": 5,
+      "open_source": false,
+      "learning_consistency": true
+    },
+    "scores": {
+      "semantic": 74.9,
+      "skills": 0.0,
+      "experience": 44.0,
+      "projects": 52.5,
+      "behavioral": 60.0,
+      "growth": 85.0
+    },
+    "final_score": 52.6,
+    "reasoning": {
+      "strengths": [
+        "Possesses practical internship experience demonstrating early professional growth.",
+        "Demonstrates leadership potential and mentorship capabilities."
+      ],
+      "weaknesses": [
+        "Gaps in core job requirements: missing Mysql, Python, Sql.",
+        "Lacks preferred/nice-to-have capabilities: Kubernetes.",
+        "Years of experience are below the desired seniority benchmark for this role."
+      ],
+      "fit_summary": "SARAH JENKINS is a potential mismatch. While they have transferable skills, their profile has significant gaps in core skills and experience benchmarks relative to the Position: Senior Backend Engineer requirements.",
+      "confidence_score": 55,
+      "interview_questions": [
+        "Can you explain how you would handle building a system with Mysql, despite not having it explicitly on your resume?",
+        "In your project 'E-Commerce Microservice API', how did you make architectural choices regarding performance and database structure?",
+        "As you transition into this role, how do you plan to quickly adapt to our scale and codebase requirements?"
+      ]
+    },
+    "fraud_report": {
+      "is_suspicious": false,
+      "fraud_penalty": 0.0,
+      "reason": "",
+      "copied_phrases": []
+    },
+    "rank": 2
+  },
+  {
+    "name": "JOHN DOE",
+    "email": "john.doe.fraud@example.com",
+    "phone": "",
+    "links": {
+      "github": "",
+      "linkedin": "",
+      "portfolio": ""
+    },
+    "skills": [
+      "Graphql",
+      "Docker",
+      "Fastapi",
+      "Mysql",
+      "Python",
+      "Sql",
+      "Postgresql",
+      "Microservices",
+      "Aws",
+      "Kubernetes"
+    ],
+    "tools": [
+      "Docker",
+      "Aws",
+      "Kubernetes"
+    ],
+    "experience": [
+      {
+        "title": "Lead",
+        "company": "Tech Company 1",
+        "dates": "2021 - Present",
+        "description": "Led backend integrations, designed microservices, improved API performance.",
+        "years": 1
+      },
+      {
+        "title": "Intern",
+        "company": "Tech Company 2",
+        "dates": "2019 - 2021",
+        "description": "Led backend integrations, designed microservices, improved API performance.",
+        "years": 1
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Microservice API",
+        "description": "Built scalable checkout APIs utilizing Python FastAPI and Postgres.",
+        "technologies": [
+          "Python",
+          "FastAPI",
+          "Postgres",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "school": "State University",
+        "grad_date": "2022"
+      },
+      {
+        "degree": "Master of Science",
+        "major": "Computer Science",
+        "school": "State University",
+        "grad_date": "2024"
+      }
+    ],
+    "certifications": [],
+    "internships": [
+      {
+        "role": "Software Engineering Intern",
+        "company": "Company",
+        "details": "Developed features, optimized processes."
+      }
+    ],
+    "soft_signals": {
+      "leadership": true,
+      "volunteering": false,
+      "initiative": true,
+      "hackathons": false,
+      "communication_rating": 4
+    },
+    "behavioral_signals": {
+      "github_activity": false,
+      "project_count": 1,
+      "open_source": false,
+      "learning_consistency": false
+    },
+    "scores": {
+      "semantic": 32.3,
+      "skills": 50.0,
+      "experience": 44.0,
+      "projects": 52.5,
+      "behavioral": 60.0,
+      "growth": 75.0
+    },
+    "final_score": 46.7,
+    "reasoning": {
+      "strengths": [
+        "Strong match for core required technologies, including: Mysql, Python, Sql.",
+        "Possesses practical internship experience demonstrating early professional growth.",
+        "Demonstrates leadership potential and mentorship capabilities."
+      ],
+      "weaknesses": [
+        "Years of experience are below the desired seniority benchmark for this role.",
+        "No active public portfolio or GitHub links provided to verify code quality."
+      ],
+      "fit_summary": "JOHN DOE is a potential mismatch. While they have transferable skills, their profile has significant gaps in core skills and experience benchmarks relative to the Position: Senior Backend Engineer requirements.",
+      "confidence_score": 55,
+      "interview_questions": [
+        "Can you walk us through the most technically challenging backend scaling issue you have solved?",
+        "In your project 'E-Commerce Microservice API', how did you make architectural choices regarding performance and database structure?",
+        "As you transition into this role, how do you plan to quickly adapt to our scale and codebase requirements?"
+      ]
+    },
+    "fraud_report": {
+      "is_suspicious": true,
+      "fraud_penalty": 50.0,
+      "reason": "High sentence duplication: copied 4 sentences verbatim from the Job Description.",
+      "copied_phrases": [
+        "You will lead the development of our core microser...",
+        "You will work closely with frontend engineers and ...",
+        "- High ownership: You take responsibility for code..."
+      ]
+    },
+    "rank": 3
+  }
+]

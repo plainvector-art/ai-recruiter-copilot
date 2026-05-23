@@ -1,0 +1,42 @@
+SARAH JENKINS
+Email: sarah.j@example.com | Phone: +1-555-0144
+LinkedIn: linkedin.com/in/sarah-jenkins-front
+Location: Boston, MA
+
+PROFESSIONAL SUMMARY
+Motivated Junior Frontend Developer with 1+ year of professional experience building responsive, user-friendly web applications. Specializing in HTML, CSS, React, and UI/UX design. Eager to contribute to a collaborative product development team.
+
+CORE SKILLS
+- Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Tailwind CSS
+- Design Tools: Figma, Adobe XD
+- Development Tools: Git, npm, VS Code
+
+PROFESSIONAL EXPERIENCE
+Frontend Developer | WebDesign Studio
+Mar 2023 - Present (1.2 years)
+- Built interactive and responsive landing pages using React and Tailwind CSS.
+- Translated Figma designs into high-quality code.
+- Optimized frontend assets to improve page loading speeds by 20%.
+- Worked closely with backend developers to integrate REST APIs.
+
+Frontend Intern | Pixels Inc
+Jun 2022 - Aug 2022 (3 months)
+- Developed layout templates and styled components.
+- Conducted cross-browser compatibility testing.
+- Participated in weekly design sprint reviews.
+
+PROJECTS
+Recipe Finder Web App (React, CSS)
+- Developed a search application using React and a public food API.
+- Implemented client-side filtering and favorite recipe storage.
+
+Personal Portfolio Site (HTML, CSS, JS)
+- Designed a custom personal portfolio site showcasing frontend skills.
+- Implemented smooth scrolling and dark mode transitions.
+
+EDUCATION
+Bachelor of Science in Web Design & Interactive Media
+Technical College, 2022
+
+CERTIFICATIONS
+- Responsive Web Design Certification (freeCodeCamp)
